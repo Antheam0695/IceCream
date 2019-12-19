@@ -1,4 +1,4 @@
 ## Two Scoops
 
-[Any Icecream]
-[Butter Pecan]
+[Any Icecream](Choice.md)
+[Butter Pecan](ButterPecan.md)
