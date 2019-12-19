@@ -1,5 +1,5 @@
 ## Vanilla, Strawberry, or ButterPecan
 
 [Vanilla]
-[Strawberry]
+[Strawberry](Strawberry.md)
 [Butterpecan]
