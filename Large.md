@@ -1,4 +1,4 @@
 ## One Scoop
 
-[Butter Pecan]
-[Strawberry]
+[Butter Pecan](ButterPecan.md)
+[Strawberry](Strawberry.md)
