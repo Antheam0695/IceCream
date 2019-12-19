@@ -1,6 +1,6 @@
 ## Vanilla, Strawberry, Chocolate, or Butterpecan?
 
-[Vanilla]
+[Vanilla](Vanilla.md)
 [Strawberry](Strawberry.md)
-[Chocolate]
+[Chocolate](Chocolate.md)
 [Butterpecan](Butterpecan.md)
